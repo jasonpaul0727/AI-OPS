@@ -2,7 +2,7 @@
 
 **Status:** Approved for implementation
 **Date:** 2026-04-17
-**Author:** paul2 (brainstormed with Claude)
+**Author:** Yanxia BU
 
 ## 1. Overview
 
